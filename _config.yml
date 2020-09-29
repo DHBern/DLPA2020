@@ -1,0 +1,33 @@
+title: Digital Literacty for the Performing Arts
+email: laurent.pugin@wbkolleg.unibe.ch
+description: "DLPA 2020"
+
+# Build settings
+theme: minimal-mistakes-jekyll
+
+logo: "/images/logo.png"
+
+footer:
+  links:
+    - label: "Web"
+      icon: "fa fa-fw fa-home"
+      url: "https://dh.unibe.ch"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dhbern/dlpa2020"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      header:
+        overlay_image: /images/header.png
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  -
+    scope:
+      path: "day1/"
+    values:
+      sidebar:
+        nav: "day1"

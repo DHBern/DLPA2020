@@ -1,0 +1,16 @@
+main:
+  - title: "Course description"
+    url: https://www.dh.unibe.ch/studium/lehrveranstaltungen/data_literacy_fuer_die_darstellenden_kuenste/index_ger.html
+  - title: "Day 1"
+    url: /day1/index.html
+
+day1:
+  - title: Description
+    children:
+      - title: "Exercice 1"
+        url: /day1/exercice1.html
+
+  - title: Output
+    children:
+      - title: "TEI"
+        url: /day1/tei.html

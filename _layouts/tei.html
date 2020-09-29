@@ -1,0 +1,16 @@
+---
+layout: single
+---
+
+<link rel="stylesheet" href="{{ site.baseurl}}/tools/cetei/CETEIcean.css" media="screen" charset="utf-8">
+<script src="{{ site.baseurl }}/tools/cetei/CETEI.js" type="text/javascript" ></script> 
+
+<div id="TEI">
+</div>
+
+<script>
+    var CETEIcean = new CETEI()
+        CETEIcean.getHTML5("{{ site.baseurl }}/tei/{{ page.teiFile }}", function(data) {
+        document.getElementById("TEI").appendChild(data)
+    })
+</script>
