@@ -1,9 +1,18 @@
 title: Digital Literacty for the Performing Arts
 email: laurent.pugin@wbkolleg.unibe.ch
 description: "DLPA 2020"
+repository: DHBern/DLPA2020
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 logo: "/images/logo.png"
 
@@ -27,7 +36,7 @@ defaults:
         overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   -
     scope:
-      path: "day1/"
+      path: "day1"
     values:
       sidebar:
         nav: "day1"
