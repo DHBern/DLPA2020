@@ -2,6 +2,7 @@ title: Digital Literacty for the Performing Arts
 email: laurent.pugin@wbkolleg.unibe.ch
 description: "DLPA 2020"
 repository: DHBern/DLPA2020
+github: [metadata]
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
