@@ -7,10 +7,14 @@ main:
 day1:
   - title: Description
     children:
-      - title: "Exercice 1"
-        url: /day1/exercice1.html
+      - title: "Session 1"
+        url: /day1/session1.html
+      - title: "Session 2"
+        url: /day1/session2.html
+      - title: "Session 3"
+        url: /day1/session3.html
 
   - title: Output
     children:
       - title: "TEI"
-        url: /day1/tei.html
+        url: /day1/output1.html

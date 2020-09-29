@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Exercice 1
+title: Session 1
 ---
 
 # Welcome to the DLPA page
