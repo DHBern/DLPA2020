@@ -5,7 +5,7 @@ title: Session 1
 
 During this session, we will perform a transcription of a couple of pages of a theater play. This means extracting the text out of a digital image.
 
-## Download the image to transcribe
+## Download some images to transcribe
 
 Create a directory on your local computer where you will download a couple of images from a [document](https://gallica.bnf.fr/ark:/12148/bpt6k3209399/) in Gallica.
 
