@@ -2,19 +2,19 @@ main:
   - title: "Course description"
     url: https://www.dh.unibe.ch/studium/lehrveranstaltungen/data_literacy_fuer_die_darstellenden_kuenste/index_ger.html
   - title: "Day 1"
-    url: /day1/index.html
+    url: /day1/session1.html
 
 day1:
   - title: Day 1 sessions
     children:
       - title: "Session 1"
         url: /day1/session1.html
-      - title: "Session 2"
-        url: /day1/session2.html
-      - title: "Session 3"
-        url: /day1/session3.html
+      #- title: "Session 2"
+      #  url: /day1/session2.html
+      #- title: "Session 3"
+      #  url: /day1/session3.html
 
   - title: Output
     children:
-      - title: "TEI"
-        url: /day1/output1.html
+      #- title: "TEI Example"
+      #  url: /day1/example.html
