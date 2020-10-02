@@ -3,7 +3,7 @@ layout: splash
 title: Introduction
 ---
 
-# Welcome to Digital Literacy for the Performing Arts seminar workspace
+# Welcome to Digital Literacy for the Performing Arts (P.A.) seminar workspace
 
 This website will serve as a workspace for the seminar. It will be continuously populated with content throughout the sessions. 
 
