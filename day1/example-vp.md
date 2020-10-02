@@ -17,4 +17,6 @@ List example
 - Item 1
 - Item 2
 
+## Image example
+
 ![image](https://historicalimprovisation.com/content/home/lerma-126.jpg)
