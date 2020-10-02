@@ -9,8 +9,8 @@ day1:
     children:
       - title: "Session 1"
         url: /day1/session1.html
-      #- title: "Session 2"
-      #  url: /day1/session2.html
+      - title: "Session 2"
+        url: /day1/session2.html
       #- title: "Session 3"
       #  url: /day1/session3.html
 
