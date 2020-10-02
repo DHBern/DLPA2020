@@ -20,3 +20,5 @@ day1:
       #  url: /day1/example.html
       - title: "VP Example"
         url: /day1/example-vp.html
+      - title: "DK Example"
+        url: /day1/example-dk.html
