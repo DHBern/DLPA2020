@@ -46,6 +46,7 @@ You can now edit the content of the file. Some help:
 
 You can try to:
 * Encode the global structure of the excerpt within the `<body>`
+
 ```xml
 <div type="act">
     <head>ACT PREMIER</head>
@@ -56,6 +57,7 @@ You can try to:
 </div>
 ```
 * Markup a speech lines with the speaker and their texts (note the escaped `&` as `&amp;`)
+
 ```xml
 <sp>
     <speaker>MAISTRE DE MUSIQUE </speaker>
@@ -64,6 +66,7 @@ You can try to:
 ```
 
 * Add a cast list in the front matter
+
 ```xml
 <castItem xml:id="jourdain">
     <role>MONSIEUR JOURDAIN</role>
@@ -72,6 +75,7 @@ You can try to:
 ```
 
 * Make the speaker refer to items in the cast list
+
 ```xml
 <sp who="#jourdain">
 ```
