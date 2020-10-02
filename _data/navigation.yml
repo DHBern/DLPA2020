@@ -22,3 +22,7 @@ day1:
         url: /day1/example-vp.html
       - title: "DK Example"
         url: /day1/example-dk.html
+      - title: "Zoe Example"
+        url: /day1/example-zoe.html
+      - title: "Mion Example"
+        url: /day1/example-mion.html
