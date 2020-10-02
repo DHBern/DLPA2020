@@ -18,3 +18,7 @@ day1:
     children:
       #- title: "TEI Example"
       #  url: /day1/example.html
+      - title: "VP Example"
+        url: /day1/example-vp.html
+      - title: "DK Example"
+        url: /day1/example-dk.html
