@@ -33,5 +33,7 @@ day2:
         url: /day2/session3.html
   - title: Output
     children:
-      #- title: "TEI Example"
-      #  url: /day2/example.html
+      - title: "Zoe Example"
+        url: /day1/example-zoep.html
+      - title: "Maria Example"
+        url: /day1/example-mp.html
