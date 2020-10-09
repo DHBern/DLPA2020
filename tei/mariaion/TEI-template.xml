@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Add the Schema reference here -->
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>[Add the main title here]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>in-progress</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: laurent.pugin@wbkolleg.unibe.ch</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>	
+		   <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+		   </div>
+		</body>
+	</text>
+</TEI>

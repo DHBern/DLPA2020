@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Add the Schema reference here -->
+<?xml-model href="../example/tei_drama-example.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>[Add the main title here]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>in-progress</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: laurent.pugin@wbkolleg.unibe.ch</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>	
+		   <div xmlns="http://www.tei-c.org/ns/1.0" type="scene">
+		   	<head>SCENE II. MONSIEUR JOURDAIN, 2. LAQUAIS, MAISTRE DE MUSIQUE, MAISTRE A DANCER, VIOLONS, MUSICIENS et DANCEURS</head>
+			   <sp>
+			   	<speaker>M. Jourdain</speaker>
+				   <p>He' bien, Messierus? Qu'est-ce? Me ferez vous voir vostre petite drôlerie?</p>
+			   </sp>
+			   <sp>
+			   	<speaker>Mre à Dancer</speaker>
+			   	<p>Comment? Quelle petite drôlerie?</p>
+			   </sp>
+
+		   </div>
+
+		</body>
+	</text>
+</TEI>
