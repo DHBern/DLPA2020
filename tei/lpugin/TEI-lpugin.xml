@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/dramacode/Teinte/gh-pages/tei2html.xsl"?>
+<?xml-model href="../example/tei_drama-example.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Example using XSLT</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>in-progress</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: laurent.pugin@wbkolleg.unibe.ch</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <front>
+            <head>Acteurs</head>
+            <castList xmlns="http://www.tei-c.org/ns/1.0">
+                <castItem xml:id="jourdain">
+                    <role>MONSIEUR JOURDAIN</role>
+                    <roleDesc>Bourgeois</roleDesc>
+                </castItem>
+                <castItem xml:id="maitremusique">
+                    <role>MAISTRE DE MUSIQUE</role>
+                </castItem>
+            </castList>
+        </front>
+        <body>
+            <div type="act">
+                <head>ACT PREMIER</head>
+                <div type="scene">
+                    <head>SCENE PREMIERE</head>
+                    <sp who="#maitremusique">
+                        <speaker>MAISTRE DE MUSIQUE </speaker>
+                        <stage>(parlant à ses musiciens)</stage>
+                        <p>Venez, entrez dans cette Salle, &amp; vous reposez-là, en attendant qu'il vienne</p>
+                    </sp>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
