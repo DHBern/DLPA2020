@@ -1,8 +1,8 @@
 ---
 title: "Transcription example"
 layout: tei
-meiFile: "example/MEI-example.xml"
+meiFile: "maria/maria.xml"
 ---
 
-# A partial MEI transcription of a page
+# A partial TEI transcription of a page
 
