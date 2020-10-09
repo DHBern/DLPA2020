@@ -1,4 +1,4 @@
-title: Digital Literacty for the Performing Arts
+title: Digital Literacy for the Performing Arts
 email: laurent.pugin@wbkolleg.unibe.ch
 description: "DLPA 2020"
 repository: DHBern/DLPA2020
@@ -41,3 +41,9 @@ defaults:
     values:
       sidebar:
         nav: "day1"
+  -
+    scope:
+      path: "day2"
+    values:
+      sidebar:
+        nav: "day2"
