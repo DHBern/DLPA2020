@@ -5,7 +5,9 @@ title: Introduction
 
 # Welcome to the Digital Literacy for the Performing Arts seminar workspace
 
-This website will serve as a workspace for the seminar. It will be continuously populated with content throughout the sessions. 
+This website will serve as a workspace for the seminar. It will be continuously populated with content throughout the sessions.
+
+*This is an added text to test the system.*
 
 The *Bourgeois Gentilhomme* will serve as a leading theme for the seminar.
 
