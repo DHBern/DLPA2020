@@ -31,6 +31,8 @@ day2:
     children:
       - title: "Session 3"
         url: /day2/session3.html
+      - title: "Session 4"
+        url: /day2/session4.html
   - title: Output
     children:
       - title: "Zoe Example"
