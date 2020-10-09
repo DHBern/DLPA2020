@@ -1,6 +1,6 @@
 ---
 title: "Transcription example"
-layout: mei
+layout: tei
 meiFile: "example/MEI-example.xml"
 ---
 
