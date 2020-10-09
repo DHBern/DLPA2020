@@ -34,6 +34,6 @@ day2:
   - title: Output
     children:
       - title: "Zoe Example"
-        url: /day1/example-zoep.html
+        url: /day2/example-zoep.html
       - title: "Maria Example"
-        url: /day1/example-mp.html
+        url: /day2/example-mp.html
