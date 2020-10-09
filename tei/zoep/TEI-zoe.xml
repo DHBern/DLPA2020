@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Add the Schema reference here -->
+<?xml-model href="../example/tei_drama-example.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>[Add the main title here]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>in-progress</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: laurent.pugin@wbkolleg.unibe.ch</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+		</front>
+	
+		<body>	
+		   <div xmlns="http://www.tei-c.org/ns/1.0" type="act">
+		   	<head> ACT ONE </head>
+		   		<div type="scene">
+		   			<head> Scene 1 </head>
+					  <entrance>Flourish. Enter Lucentio and his man Tranio</entrance>
+		  			 <sp>
+					   	<speaker> LUCENTIO </speaker>
+						   <p>Tranio, since for the great desire I had</p>
+		  			 </sp>
+		  		</div>
+		   </div>
+		</body>
+	</text>
+</TEI>
