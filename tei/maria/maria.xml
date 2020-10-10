@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../example/tei_drama-example.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>[Add the main title here]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>in-progress</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: laurent.pugin@wbkolleg.unibe.ch</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+	<front>
+	   <castList>
+          <castItem><role rend="female" xml:id="aristione">Aristione</role>, Princesse, Mère d'Ériphile.</castItem>
+          <castItem><role rend="female junior" xml:id="eriphile">Ériphile</role>, Fille de la Princesse.</castItem>
+          <castItem><role rend="female inferior" xml:id="cleonice">Cléonice</role>, Confidente d'Ériphile.</castItem>
+          <castItem><role rend="female inferior" xml:id="chorebe">Chorèbe</role>, de la suite de la Princesse.</castItem>
+          <castItem><role rend="male junior" xml:id="iphicrate">Iphicrate</role>, Amant magnifique.</castItem>
+          <castItem><role rend="male junior" xml:id="timocles">Timoclès</role>, Amant magnifique.</castItem>
+          <castItem><role rend="male" xml:id="sostrate">Sostrate</role>, Général d'Armée, Amant d'Ériphile.</castItem>
+          <castItem><role rend="male inferior" xml:id="clitidas">Clitidas</role>, Plaisant de Cour, de la suite d'Ériphile.</castItem>
+          <castItem><role rend="male" xml:id="anaxarque">Anaxarque</role>, Astrologue.</castItem>
+          <castItem><role rend="male junior" xml:id="cleon">Cléon</role>, Fils d'Anaxarque.</castItem>
+          <castItem><role rend="female" xml:id="venus">Une fausse Vénus</role>, d'intelligence avec Anaxarque.</castItem>
+    	</castList>
+	</front>
+		<body>	
+		   <div xmlns="http://www.tei-c.org/ns/1.0" type="chapter">
+		   </div>
+		</body>
+	</text>
+</TEI>

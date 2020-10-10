@@ -3,6 +3,8 @@ main:
     url: https://www.dh.unibe.ch/studium/lehrveranstaltungen/data_literacy_fuer_die_darstellenden_kuenste/index_ger.html
   - title: "Day 1"
     url: /day1/session1.html
+  - title: "Day 2"
+    url: /day2/session3.html
 
 day1:
   - title: Day 1 sessions
@@ -11,10 +13,31 @@ day1:
         url: /day1/session1.html
       - title: "Session 2"
         url: /day1/session2.html
-      #- title: "Session 3"
-      #  url: /day1/session3.html
-
   - title: Output
     children:
       #- title: "TEI Example"
       #  url: /day1/example.html
+      - title: "VP Example"
+        url: /day1/example-vp.html
+      - title: "DK Example"
+        url: /day1/example-dk.html
+      - title: "Zoe Example"
+        url: /day1/example-zoe.html
+      - title: "Mion Example"
+        url: /day1/example-mion.html
+
+day2:
+  - title: Day 2 sessions
+    children:
+      - title: "Session 3"
+        url: /day2/session3.html
+      - title: "Session 4"
+        url: /day2/session4.html
+  - title: Output
+    children:
+      - title: "Zoe Example"
+        url: /day2/example-zoep.html
+      - title: "Maria Example"
+        url: /day2/example-mg.html
+      - title: "Vicente Example"
+        url: /day2/example-vp.html
