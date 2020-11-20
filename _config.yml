@@ -47,3 +47,9 @@ defaults:
     values:
       sidebar:
         nav: "day2"
+  -
+    scope:
+      path: "day3"
+    values:
+      sidebar:
+        nav: "day3"

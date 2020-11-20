@@ -1,0 +1,20 @@
+---
+layout: single
+---
+
+{{ content }}
+
+<div id="tify" style="height: 800px;"></div>
+<script>
+	tifyOptions = {
+		container: '#tify',
+		immediateRender: false,
+		init: true,
+		language: 'de',
+		manifest: '{{ page.manifest }}',
+		stylesheet: '{{ site.baseurl}}/tools/tify/tify.css',
+		title: null,
+	}
+</script>
+
+<script src="{{ site.baseurl }}/tools/tify/tify.js" type="text/javascript" ></script> 

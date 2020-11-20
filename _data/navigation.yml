@@ -5,6 +5,8 @@ main:
     url: /day1/session1.html
   - title: "Day 2"
     url: /day2/session3.html
+  - title: "Day 3"
+    url: /day3/session5.html
 
 day1:
   - title: Day 1 sessions
@@ -39,5 +41,21 @@ day2:
         url: /day2/example-zoep.html
       - title: "Maria Example"
         url: /day2/example-mg.html
-      - title: "Vincente Example"
+      - title: "Vicente Example"
         url: /day2/example-vp.html
+
+day3:
+  - title: Day 3 sessions
+    children:
+      - title: "Session 6"
+        url: /day3/session6.html
+      - title: "Session 7"
+        url: /day3/session7.html
+  - title: Output
+    children:
+      #- title: "Zoe Example"
+      #  url: /day3/example-zoep.html
+      #- title: "Maria Example"
+      #  url: /day3/example-mg.html
+      #- title: "Vicente Example"
+      #  url: /day3/example-vp.html
