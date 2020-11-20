@@ -3,7 +3,7 @@ layout: single
 title: Session 7
 ---
 
-In first part of this session, we will experiment how to publish remote images within our workspace. In the second part, we will manipulate a vector graphic image illustrating dance notation movements as we could want to do it in order to create an interactive application around it.
+In the first part of this session, we will experiment how to publish remote images within our workspace. In the second part, we will manipulate a vector graphic image illustrating dance notation movements as one might want to do it in order to create an interactive application around it.
 
 ## Locate a IIIF manifest
 

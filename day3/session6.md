@@ -3,11 +3,11 @@ layout: single
 title: Session 7
 ---
 
-In this session, we will experiment how to publish a score within this workspace
+In this session, we will see how to publish a score within this workspace.
 
 ## Create or convert a score to MEI
 
-As a starting point, we will be using a score engraved with a music notation software, such as [MuseScore](https://musescore.org) or [Finale](https://www.finalemusic.com/).
+As a starting point, we will be using a score engraved with a music notation software, such as [MuseScore](https://musescore.org) or [Finale](https://www.finalemusic.com/). We need to rely on an export to the MusicXML format.
 
 Scores available for re-use are available from [musescore.com](https://musescore.com), a community website for publishing scores. We downloaded [this](https://musescore.com/user/3795306/scores/6060182) score and extracted a [snippet](../musicxml/Comédie_Ballet_du_Le_Bourgeois_Gentilhomme,_LWV43.musicxml) that you can use for these exercise.
 
