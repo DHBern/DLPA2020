@@ -53,9 +53,7 @@ day3:
         url: /day3/session7.html
   - title: Output
     children:
-      #- title: "Zoe Example"
-      #  url: /day3/example-zoep.html
-      #- title: "Maria Example"
-      #  url: /day3/example-mg.html
-      #- title: "Vicente Example"
-      #  url: /day3/example-vp.html
+      - title: "IIIF Example"
+        url: /day3/example-iiif.html
+      - title: "MEI Example"
+        url: /day3/example-mei.html
